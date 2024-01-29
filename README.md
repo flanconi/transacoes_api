@@ -34,6 +34,6 @@ CREATE TABLE `transacoes` (
 `DELETE` Apaga o dado da tabelar a partir de um id que é passado com parametro na url;
 
 
-## /transacao
+## /categoria
 `GET` Retorna uma lista com o valor total gasto em uma categoria de transação, este valor é acessado apartir do parametro **categoria** que é passado na url; 
 
